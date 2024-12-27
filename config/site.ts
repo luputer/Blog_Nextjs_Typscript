@@ -1,6 +1,6 @@
 const SiteConfig = {
-    "titel" : "Programing with Saidi",
-    "description" : "This is a blog about programming with Saidi",
+    "titel": "LuputerBlogs",
+    "description": "This is a blog about programming with Saidi",
 }
 
 
